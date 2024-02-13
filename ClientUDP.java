@@ -1,4 +1,4 @@
-public class UDPClient {
+public class ClientUDP {
     public static void main(String[] args) {
         DatagramSocket clientSocket = null;
         
